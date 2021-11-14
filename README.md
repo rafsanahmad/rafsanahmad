@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
 
 fun getBio() : Map<String, String> {
     return mapOf(
-	"- ⚡ Quick bio" to                       "Passionate Software Developer with 5 years of of experience in developing complex mobile solutions, system design.",
+	"- ⚡ Quick bio" to                       "Passionate Software Developer with 5 years of experience in developing complex mobile solutions, system design.",
 	"- 🔭 I'm currently working on" to       "Sharpening my System Design, Architecture, Problem-Solving Skills.",
 	"- 🌱 I'm currently learning" to         "Jetpack Compose, Dart, Python, Keras, TensorFlow.",
 	"- 👯 I'm looking to collaborate on" to  "Kotlin, Jetpack Compose, Dart Sdk, AI/ML projects.",
