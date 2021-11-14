@@ -8,20 +8,20 @@ package main
 fun main(args: Array<String>) {
     val map = getBio()
     for ((key, value) in map) {
-        println("$key = $value")
+        println("$key : $value")
     }
 }
 
 fun getBio() : Map<String, String> {
-    return mapOf{
-	"- ⚡ Quick bio:" to                      "Passionate Software Developer with 5 years of of experience in developing complex mobile solutions, system design.",
-	"- 🔭 I’m currently working on" to       "Sharpening my System Design, Architecture, Problem-Solving Skills",
-	"- 🌱 I’m currently learning" to         "Jetpack Compose, Dart, Python, Keras, TensorFlow",
-	"- 👯 I’m looking to collaborate on" to  "Kotlin, Jetpack Compose, Dart Sdk, AI/ML projects",
-	"- 🤔 I’m looking for help with" to      "Anything related to what I am currently learning 😅",
-	"- 💬 Ask me about" to                   "Mobile Application Development, Android, Kotlin, Java, Swift, Flutter, Dart",
-	"- 📫 How to reach me:" to               "rafsanahmad111@gmail.com",
-   }
+    return mapOf(
+	"- ⚡ Quick bio" to                       "Passionate Software Developer with 5 years of of experience in developing complex mobile solutions, system design.",
+	"- 🔭 I'm currently working on" to       "Sharpening my System Design, Architecture, Problem-Solving Skills.",
+	"- 🌱 I'm currently learning" to         "Jetpack Compose, Dart, Python, Keras, TensorFlow.",
+	"- 👯 I'm looking to collaborate on" to  "Kotlin, Jetpack Compose, Dart Sdk, AI/ML projects.",
+	"- 🤔 I'm looking for help with" to      "Anything related to what I am currently learning 😅.",
+	"- 💬 Ask me about" to                   "Mobile Application Development, Android, Kotlin, Java, Swift, Flutter, Dart.",
+	"- 📫 How to reach me" to                "rafsanahmad111@gmail.com"
+   )
 }
 ```
 
