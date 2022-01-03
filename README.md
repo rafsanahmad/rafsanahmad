@@ -53,7 +53,7 @@ fun getBio() : Map<String, String> {
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Rafsan Ahmad's Medium Profile" height="30" width="30">
   </a>
   
-  <a href="https://twitter.com/rafsanahmad007">
+  <a href="https://twitter.com/RafsanahmadDev">
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Rafsan Ahmad's Twitter Profile" height="30" width="30">
   </a>
 </p>
