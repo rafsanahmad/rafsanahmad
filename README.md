@@ -76,7 +76,7 @@ fun getBio() : Map<String, String> {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats-rafsan.vercel.app/api?username=rafsanahmad&show_icons=true&theme=synthwave&count_private=true" alt="rafsanahmad :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats-rafsan.vercel.app/api?username=rafsanahmad&show_icons=true&theme=synthwave&count_private=true&rank_icon=github" alt="rafsanahmad :: Profile Stats" /></p>
 
 <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
 
